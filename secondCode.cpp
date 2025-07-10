@@ -1,5 +1,5 @@
-// Day 2:  Zigzag Conversion using Row-Wise Simulation
 // 30 Days of Code Camp
+// Day 2:  Zigzag Conversion using Row-Wise Simulation
 // Author: Rutanshu Patel
 // Problem: Converts a string to its zigzag pattern with the given number of rows.
 // Date: July 10, 2025

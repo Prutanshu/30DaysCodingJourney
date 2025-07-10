@@ -1,7 +1,7 @@
 // 30 Days of Code Camp
 // Day 2: Reverse String
 // Author: Rutanshu Patel
-// Problem: Write a function that reverses a string.
+// Problem: Write a function that reverses a string
 // Date: July 10, 2025
 
 #include <iostream>
